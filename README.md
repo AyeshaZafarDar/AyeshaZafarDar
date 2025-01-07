@@ -70,8 +70,8 @@
 <table>
   <tr>
     <td>
-      <h4>🌍 <b>Airbnb Clone</b></h4>
-      Full-stack development using **React** (frontend) and **Django** (backend).
+      <h4>🌍 <b>bnb University</b></h4>
+      Full-stack development using <b>React</b> (frontend) and <b>Django</b> (backend).
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react" />
@@ -81,7 +81,7 @@
   <tr>
     <td>
       <h4>🔄 <b>Shoptelligence</b></h4>
-      Created cloud solutions using **GCP**, **Cloud Composer (Apache Airflow)** for data engineering and AI task management.
+      Worked on resolving technical tickets and contributed to data engineering tasks using <b>GCP</b>, <b>Cloud Composer</b> (Apache Airflow), <b>BigQuery</b>, <b>Compute Engine</b>, and <b>Cloud Storage</b> for data science solutions.
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/-GCP-blue?style=flat-square&logo=google-cloud" />
@@ -91,7 +91,7 @@
   <tr>
     <td>
       <h4>👩‍🏫 <b>FCIT Help Desk</b></h4>
-      Student support platform built with **React** and **Django** to assist university students efficiently.
+      Designed to provide support and assistance to PUCIT students using <b>React</b> and <b>Django</b>.
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react" />
@@ -100,8 +100,77 @@
   </tr>
   <tr>
     <td>
+      <h4>🤝 <b>Splitwise</b></h4>
+      Built a collaborative expense management application using <b>React</b> and <b>Firebase</b>, enabling users to split bills and track shared expenses.
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react" />
+      <img src="https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=firebase" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>📈 <b>Investment Tracker</b></h4>
+      Developed a web application with <b>React</b> (frontend) and <b>Django</b> (backend), allowing users to manage and track investments in stocks, ETFs, and cryptocurrencies.
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react" />
+      <img src="https://img.shields.io/badge/-Django-green?style=flat-square&logo=django" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>🧩 <b>Crossword-Drill</b></h4>
+      Developed a crossword drill exercise program using <b>Django</b>, featuring clues, user guesses, and progress tracking.
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Django-green?style=flat-square&logo=django" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>📋 <b>Task Manager</b></h4>
+      Built a full-stack task management app using <b>Django</b> and <b>React</b>, allowing users to manage and filter tasks.
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react" />
+      <img src="https://img.shields.io/badge/-Django-green?style=flat-square&logo=django" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>🏥 <b>Healthcare Management System</b></h4>
+      Designed and developed a comprehensive healthcare management system using <b>TypeScript</b>, <b>Material-UI</b>, and <b>MS Dynamics</b> to optimize patient data management and enhance operational efficiency.
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript" />
+      <img src="https://img.shields.io/badge/-Material--UI-blueviolet?style=flat-square&logo=mui" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>🎙 <b>Smart Recorder</b></h4>
+      Created a full-stack audio recording and transcription app using <b>Flask</b> and <b>React</b>, featuring authentication and asynchronous processing.
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react" />
+      <img src="https://img.shields.io/badge/-Flask-grey?style=flat-square&logo=flask" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>🌍 <b>GeoDistanceAPI</b></h4>
+      Developed a Django-based API for geocoding, reverse geocoding, and distance calculation using Google Maps API.
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Django-green?style=flat-square&logo=django" />
+      <img src="https://img.shields.io/badge/-Google%20Maps-orange?style=flat-square&logo=googlemaps" />
+    </td>
+  </tr>
+  <tr>
+    <td>
       <h4>📊 <b>SteelPowerStats</b></h4>
-      Analytics dashboard for steel industry power consumption using **Flask** and **React**.
+      Built a full-stack application analyzing steel industry power consumption with a Flask API and React frontend for data visualization.
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react" />
